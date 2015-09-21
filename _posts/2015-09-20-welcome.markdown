@@ -1,0 +1,10 @@
+---
+layout:     post
+title:      "Welcome to our new blog!"
+subtitle:   ""
+date:       2015-09-20 8:30:00
+author:     "Scott Swarthout"
+header-img: "img/post-bg-01.jpg"
+---
+
+<p>We are excited to show you our new blogs! This is where you will be able to keep updated on our company and learn about various topics, like mobile app development and entrepreneurship</p>
