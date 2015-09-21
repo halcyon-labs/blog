@@ -3,8 +3,8 @@ title: Halcyon Blog
 header-img: img/home-bg.jpg
 email: halcyonlabsllc@gmail.com
 description: "Official Blog for Halcyon Labs LLC"
-baseurl: ""
-url: "http://halcyonlabs.io"
+baseurl: "/blog"
+url: "http://halcyonlabs.io/blog/"
 twitter_username: scott_swarthout
 github_username:  swarthout
 facebook_username:
