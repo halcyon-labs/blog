@@ -1,0 +1,25 @@
+# Site settings
+title: Halcyon Blog
+header-img: img/home-bg.jpg
+email: halcyonlabsllc@gmail.com
+description: "Official Blog for Halcyon Labs LLC"
+baseurl: ""
+url: "http://halcyonlabs.io"
+twitter_username: scott_swarthout
+github_username:  swarthout
+facebook_username:
+color:
+  primary: 12CDC7
+  secondary: EC594C
+  secondary-dark: 0A0403
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+color:
+  primary: 12CDC7
+  secondary: EC594C
+  secondary-dark: 0A0403
