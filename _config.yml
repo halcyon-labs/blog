@@ -18,7 +18,6 @@ highlighter: pygments
 permalink: pretty
 paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-
 color:
   primary: 12CDC7
   secondary: EC594C
