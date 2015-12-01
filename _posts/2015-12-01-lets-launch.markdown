@@ -1,7 +1,6 @@
 ---
 layout:     post
 title:      "Let's Launch!"
-subtitle:   "Launching your App"
 date:       2015-12-01 15:00:00
 author:     "Dean Miesner"
 header-img: "img/post-bg-01.jpg"
