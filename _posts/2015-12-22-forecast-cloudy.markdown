@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Cloud Market Analysis"
+title:      "Forecast: Cloudy"
 date:       2015-12-22 19:00:00
 author:     "Scott Swarthout"
 header-img: "img/post-bg-02.jpg"
