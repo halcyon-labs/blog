@@ -36,7 +36,7 @@ This sounds great, but how to I use these two libraries together?
 
 Note: All source code for this tutorial is available at  https://github.com/swarthout/feathers-apollo. I will try to keep this repository in sync with this blog post, but if conflicts do arise, the repository is probably right.
 
-First install Node.js and NPM. then enter the following commands into you command line:
+First install Node.js and NPM. then enter the following commands into your command line:
 
 ```sh
 $ npm install -g feathers-cli
